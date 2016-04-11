@@ -1,0 +1,46 @@
+*{
+	font-family:Tahoma;
+}
+
+/*header--menu*/
+header{
+	padding:20px;
+	border:1px solid transparent;
+}
+
+.menu{
+	background-color: #313131;
+	max-width: 100%;
+	height: 120px;
+	font-size: 14px;
+	padding-left: 20px;
+}
+
+.the{
+	font-size: 60px;
+}
+
+strong{
+	font-weight: bolder;
+	font-size: 60px;
+	font-family: "Arial Black"
+}
+
+.lista-menu{
+	list-style: none;
+	display: inline-block;
+	padding:40px 15px;
+	font-family: "Lucida Console";
+}
+/*fin header--menu*/
+
+/*comienzo sección imagen 1*/
+.background{
+	background-image: url(http://mycolorscreen.com/wp-content/uploads/wallpapers_2012/163987/lightgrey.png);
+	max-width: 100%;
+}
+
+.img-header{
+	width: 50%;
+	padding:20px;
+}
